@@ -1,0 +1,9 @@
+body {
+    font-family: monospace;
+    color: navy;
+    padding: 40px;
+}
+
+.header {
+    font-weight: 500;
+}
